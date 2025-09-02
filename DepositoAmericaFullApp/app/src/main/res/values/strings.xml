@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Depósito América</string>
+    <string name="login">Entrar</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="gerenciar_estoque">Gerenciar Estoque</string>
+    <string name="registrar_venda">Registrar Venda</string>
+</resources>
